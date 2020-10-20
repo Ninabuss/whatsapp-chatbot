@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'https://290509d9d56a.ngrok.io',
-    '290509d9d56a.ngrok.io'
+    '290509d9d56a.ngrok.io',
+    'ninabuss.pythonanywhere.com'
 ]
 
 
